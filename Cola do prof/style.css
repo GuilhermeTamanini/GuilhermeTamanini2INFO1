@@ -1,0 +1,30 @@
+.container {
+    width: 50%;
+    margin: 20px auto 0px auto;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+input[type="text"] {
+    height: 40px;
+    width: 80%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+button {
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.removed {
+    color: gray;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
